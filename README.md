@@ -2,7 +2,13 @@
 通过web3.js，ether.js 结合Infra 获取合约池最新报价.....
 
 # 介绍
-利用ether.js web3.js 通过Infra节点获取合约上的币对价格，并且结合websocket，进行订阅访问。本项目暂时只开源整个核心逻辑，目的是给学习者一些帮助，不提供商业使用方法。
+利用ether.js web3.js 通过Infra节点获取合约上的币对价格，并且结合websocket，进行订阅获取。
+
+
+本项目暂时只开源整个代码逻辑，目的是给web3学习者一些代码实现帮助，不提供商业使用方法。
+
+建议观看：blockman codes 相关视频入门
+https://www.youtube.com/@blockmancodes
 
 
 # 联系我                ---萧枫
